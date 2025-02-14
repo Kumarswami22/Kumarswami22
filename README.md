@@ -33,5 +33,4 @@ def my_tech_stack():
 I once optimized a pizza delivery route analysis so precisely, it could rival Domino’s 30-minute guarantee! 🍕⏱️
 
 📫 Let’s Connect:
-LinkedIn
-Kaggle
+LinkedIn : https://www.linkedin.com/in/kumar-swami-1928b728b/
